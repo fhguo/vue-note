@@ -29,7 +29,7 @@ export default {
   data() {
     return {
       currentDate: "2023-5-5",
-      appList: [{id: 1, title: "前端笔记", imgUrl: "/vue-note/hero.png", creatDate: "2023-5-10", fileUrl: "https://gitee.com/gfh_he/vue-press/blob/master/docs/.vuepress/dist/app/vueNote.apk"}, {id: 2, title: "chatBot", imgUrl: "/vue-note/bot_mini.png", creatDate: "2023-5-10", fileUrl: "https://gitee.com/gfh_he/vue-press/blob/master/docs/.vuepress/dist/app/chatBot.apk"}]
+      appList: [{id: 1, title: "前端笔记", imgUrl: "/vue-note/hero.png", creatDate: "2023-5-10", fileUrl: "https://gitee.com/gfh_he/vue-note/releases"}, {id: 2, title: "chatBot", imgUrl: "/vue-note/bot_mini.png", creatDate: "2023-5-10", fileUrl: "https://gitee.com/gfh_he/chat-robot/releases"}]
     }
   },
   methods: {
