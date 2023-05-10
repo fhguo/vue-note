@@ -35,7 +35,7 @@ module.exports = {
         'webAPI',
         'link',
         'vue',
-        'React&miniAPP&echarts',
+        // 'React&miniAPP&echarts', // 未完成 暂时屏蔽掉
       ],
       '/guide/': ['']
     },
@@ -44,8 +44,8 @@ module.exports = {
     sidebarDepth: 2,
     // 最后更新时间
     lastUpdated: 'Last Updated', // string | boolean
-    // 假定是 GitHub. 同时也可以是一个完整的 GitLab URL
-    repo: 'https://gitee.com/gfh_he/vue-press.git',
+    // 仓库地址
+    repo: 'https://gitee.com/gfh_he/vue-note.git',
     // 自定义仓库链接文字。默认从 `themeConfig.repo` 中自动推断为
     // "GitHub"/"GitLab"/"Bitbucket" 其中之一，或是 "Source"。
     repoLabel: '查看源码',
